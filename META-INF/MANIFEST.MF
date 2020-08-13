@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: conference-demo
+Bundle-SymbolicName: conference-demo
+Bundle-Version: 1.0.0.qualifier
+Export-Package: com.pluralsight.coferencedemo,
+ com.pluralsight.conferencedemo,
+ com.pluralsight.conferencedemo.controllers,
+ com.pluralsight.conferencedemo.models,
+ com.pluralsight.conferencedemo.repositories
